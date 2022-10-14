@@ -1,4 +1,4 @@
-package com.jzvapro.lesson16.model;
+package com.javapro.lesson16.model;
 
 public class Order {
 

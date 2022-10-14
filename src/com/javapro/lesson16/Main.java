@@ -1,6 +1,6 @@
-package com.jzvapro.lesson16;
+package com.javapro.lesson16;
 
-import com.jzvapro.lesson16.model.CoffeeOrderBoard;
+import com.javapro.lesson16.model.CoffeeOrderBoard;
 
 
 public class Main {
